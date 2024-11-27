@@ -15,7 +15,7 @@ body {
 
 /* Header */
 header {
-    background-color: #4caf50;
+    background-color: #47f8ef;
     color: white;
     padding: 2rem;
     text-align: center;
@@ -52,7 +52,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #4caf50;
+    color: #25ebeb;
 }
 
 /* Secciones principales */
@@ -71,7 +71,7 @@ main section {
 }
 
 main section h2 {
-    color: #4caf50;
+    color: #46e9f5;
     margin-bottom: 1rem;
 }
 
